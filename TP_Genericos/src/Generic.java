@@ -1,7 +1,7 @@
 import java.awt.List;
 import java.util.ArrayList;
 
-public class Generic <T extends Copy & Comparable>{
+public class Generic <T extends ICopy & Comparable>{
 
 	private ArrayList<T> list;
 	

@@ -1,5 +1,5 @@
 
-public class Persona implements Comparable, Copy{
+public class Persona implements Comparable, ICopy{
 
 	private String nombre;
 	private int edad;
